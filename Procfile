@@ -1,1 +1,1 @@
-worker: python job_notifier.py
+worker: python alert.py
