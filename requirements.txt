@@ -1,1 +1,3 @@
-pip freeze > requirements.txt
+beautifulsoup4
+requests
+pyTelegramBotAPI
